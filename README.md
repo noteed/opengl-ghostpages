@@ -48,6 +48,7 @@ Offset is really that, an offset. It is called 'pointer' in the specifications
 because, say, VertexPointer was initially used to describe 'vertex arrays'.
 
 From the description above, it is clear it is necessary to have
+
 - a named, enabled vertex attribute
 - a buffer object bound to ARRAY_BUFFER
 
