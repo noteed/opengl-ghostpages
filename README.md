@@ -13,7 +13,7 @@ github will happily display it nicely.
 
 ## VertexAttribPointer
 
-describe the format of vertex attribute raw data
+describe the format of vertex attribute raw data and assign it to a location
 
     void glVertexAttribPointer (
       GLuint       location, 
